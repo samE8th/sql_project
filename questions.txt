@@ -1,0 +1,29 @@
+---> BASIC
+
+1.What is the total number of EV sales in each region for the year 2020?
+
+2.Which region had the highest EV sales share in 2021?
+
+3.What is the total EV stock for each powertrain type in the year 2019?
+
+4.What is the average EV stock share across all regions for the year 2018?
+
+5.How many Battery Electric Vehicles (BEVs) were sold in Australia in 2015?
+
+6.Which year had the highest total EV sales globally?
+
+
+
+---> INTERMIDIATE 
+
+1.Annual EV Sales by Region: Write a query to calculate the total number of EVs sold in each region for each year. Order the results by region and year.
+
+2.EV Stock Share Trend: Write a query to find the trend in EV stock share (percent) for each region over the years. Display the region, year, and EV stock share.
+
+3.Top Regions by EV Sales: Identify the top 5 regions with the highest EV sales in the most recent year available in the dataset. Provide the region and the total number of EVs sold.
+
+4.EV Sales Growth Rate: Calculate the year-over-year growth rate of EV sales for each region. Show the region, year, and growth rate.
+
+5.Powertrain Sales Analysis: Write a query to analyze the sales of different powertrains (e.g., BEV, PHEV) for the most recent year. Provide the powertrain type, total sales, and the share of each powertrain in the total sales.
+
+6.Category-Wise Sales Performance: Determine the total EV sales for different categories (e.g., Cars, Trucks) for each region in the most recent year. Provide the region, category, and total sales.

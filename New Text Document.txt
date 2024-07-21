@@ -1,0 +1,13 @@
+Objective
+The primary objective of this project is to analyze and evaluate the sales performance of electric vehicles (EVs) to provide actionable insights for improving sales strategies and decision-making. The analysis will focus on various aspects, including sales trends, customer behavior, regional performance, product line success, the impact of discounts, and salesperson effectiveness. By examining these elements, the goal is to identify key patterns, opportunities, and areas for improvement to optimize sales performance and drive business growth in the electric vehicle market.
+
+Problem Statement
+Despite the growing popularity of electric vehicles (EVs), the company faces challenges in understanding and optimizing its sales performance across different EV models, customer segments, and regions. Current sales data lacks comprehensive analysis, making it difficult to:
+
+Identify Trends: Detect patterns in sales performance over time and assess how different models and regions contribute to overall revenue.
+Segment Customers: Pinpoint key customer segments that drive sales and understand their purchasing behavior and preferences.
+Evaluate Regional Performance: Determine which regions perform better in terms of sales revenue and identify potential areas for expansion or improvement.
+Assess Product Lines: Evaluate the success of various EV models and identify which ones perform best and why.
+Understand Discount Impact: Analyze how discounts influence sales revenue and identify models where discounts are most effective.
+Measure Salesperson Performance: Recognize top-performing salespersons and understand their impact on sales revenue for different EV models.
+By addressing these issues, the project aims to provide detailed insights and recommendations that will help the company enhance its sales strategies, target high-potential markets, and ultimately increase overall sales performance.
